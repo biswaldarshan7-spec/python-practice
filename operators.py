@@ -15,7 +15,6 @@ print(b)
 # Comparison Operators
 
 d = 5==5
-
 print(d)
 
 
