@@ -5,11 +5,11 @@ d = False # boolean
 e = None # none 
 
 # a,b,c,d,e are variables
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
-print(type(e))
+print(a, type(a))
+print(b, type(b))
+print(c, type(c))
+print(d, type(d))
+print(e, type(e))
 
 aaa= 7462
 
