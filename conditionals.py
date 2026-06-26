@@ -43,5 +43,4 @@ elif(marks>50 and marks<=60):
     print("your grade is :D")
 elif(marks<=50):
     print("your grade is:F")
-
     
