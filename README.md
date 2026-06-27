@@ -11,5 +11,6 @@ This repository contains my Python learning journey.
 - Dictionaries
 - Sets
 - Conditional Statements
+- loops
 
 I am learning Python for bioinformatics and data analysis.
