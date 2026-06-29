@@ -12,5 +12,7 @@ This repository contains my Python learning journey.
 - Sets
 - Conditional Statements
 - loops
+- multiplication.py
+- prime_no.py
 
 I am learning Python for bioinformatics and data analysis.
